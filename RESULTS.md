@@ -22,3 +22,4 @@
   - Run 2: FAIL
   - Run 3: PASS 
 - Step 0.13: test_new_user_has_no_ratings PASSED 
+- Step 0.14: test_read_rating, test_update_rating, and test_delete_rating PASSED   

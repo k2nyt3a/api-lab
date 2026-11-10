@@ -9,3 +9,4 @@
 - Step 0.3, status code without a token: 401 Unauthorized
 - Step 0.4, name of your pizza: The Poor Calzone
 - Step 0.5: Successfully tested GET and POST requests using Python requests. Both returned status 200.
+- Step 0.6: Created the first pytest test. Verified that it fails with an incorrect pizza name and passes with the correct name.

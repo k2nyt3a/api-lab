@@ -16,3 +16,4 @@
   and confirmed that the new user had no ratings.
   Session cookies were retained.
 - Step 0.10: All 4 test pass
+- Step 0.11: test_new_user_has_no_ratings PASSED  

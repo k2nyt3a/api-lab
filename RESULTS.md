@@ -7,3 +7,4 @@
     - content type: application/json
     - WSALB cookie: Present
 - Step 0.3, status code without a token: 401 Unauthorized
+- Step 0.4, name of your pizza: The Poor Calzone

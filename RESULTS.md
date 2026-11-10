@@ -37,3 +37,10 @@
 - Expected result: HTTP 400 with a JSON error message
 - Actual result: HTTP 500 with an empty body
 - Severity: Medium
+
+## Part A
+
+- Step A4, status codes when another user accesses the owner's rating:
+  - Read (GET): 404
+  - Update (PUT): 400
+  - Delete (DELETE): 400

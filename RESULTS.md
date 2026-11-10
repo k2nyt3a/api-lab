@@ -24,3 +24,16 @@
 - Step 0.13: test_new_user_has_no_ratings PASSED 
 - Step 0.14: test_read_rating, test_update_rating, and test_delete_rating PASSED   
 - Step 0.15: test_duplicate_username, test_wrong_password, and test_empty_username PASSED         
+- Step 0.16, blocks of "how many of the three tools are excluded":
+  - B1: 0 tools excluded
+  - B2: 1 tool excluded
+  - B3: 2 tools excluded
+  - B4: 3 tools excluded
+
+## Defect Report
+
+- Title: API returns HTTP 500 for an impossible pizza request
+- Request: POST /api/pizza with all three tools excluded
+- Expected result: HTTP 400 with a JSON error message
+- Actual result: HTTP 500 with an empty body
+- Severity: Medium

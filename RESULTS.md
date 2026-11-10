@@ -12,3 +12,6 @@
 - Step 0.6: Created the first pytest test. Verified that it fails with an incorrect pizza name and passes with the correct name.
 - Step 0.7: test_vegetarian_pizza PASSED
 - Step 0.8: test_pizza_without_token_is_refused and test_tools_are_listed PASSED  
+- Step 0.9: Created a unique test user, logged in successfully,
+  and confirmed that the new user had no ratings.
+  Session cookies were retained.

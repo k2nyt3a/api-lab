@@ -6,3 +6,4 @@
     - status code: 200
     - content type: application/json
     - WSALB cookie: Present
+- Step 0.3, status code without a token: 401 Unauthorized

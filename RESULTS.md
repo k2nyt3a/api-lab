@@ -17,3 +17,7 @@
   Session cookies were retained.
 - Step 0.10: All 4 test pass
 - Step 0.11: test_new_user_has_no_ratings PASSED  
+- Step 0.12, results of the three runs without a session:
+  - Run 1: PASS 
+  - Run 2: FAIL
+  - Run 3: PASS 

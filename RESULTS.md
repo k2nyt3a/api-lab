@@ -15,3 +15,4 @@
 - Step 0.9: Created a unique test user, logged in successfully,
   and confirmed that the new user had no ratings.
   Session cookies were retained.
+- Step 0.10: All 4 test pass
